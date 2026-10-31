@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-31T05:54:24.571916+00:00",
+  "updated_at": "2026-10-31T05:55:25.709740+00:00",
   "initial_capital": 1640.0,
-  "capital": 1869.8,
-  "profit": 229.8,
-  "rounds": 4710,
-  "wins": 2301,
-  "loss_streak": 2,
+  "capital": 1870.3,
+  "profit": 230.3,
+  "rounds": 4713,
+  "wins": 2303,
+  "loss_streak": 0,
   "max_loss_streak": 10,
   "max_bet": 102.4,
-  "next_bet": 0.4,
+  "next_bet": 0.1,
   "blocked": false
 }
